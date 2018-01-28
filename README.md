@@ -1,2 +1,2 @@
 # CMPM163_w18
-Homework assignments for CMPM 163, computer game graphics taught by prof. Angus Forbes
+Assignments and Projects for CMPM 163: Computer Game Graphics (Winter 2018) taught by prof. Angus Forbes.
